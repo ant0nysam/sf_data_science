@@ -1,12 +1,12 @@
 # Проект 0. "Угадай число"
 
 ## Оглавление
-[1. Описание проекта](https://github.com/ant0nysam/sf_data_science/tree/main/project_0/README.MD#Описание-проекта)
-[2. Какой кейс решаем](https://github.com/ant0nysam/sf_data_science/tree/main/project_0/README.MD#Какой-кейс-решаем)
-[3. Краткая информация о данных](https://github.com/ant0nysam/sf_data_science/tree/main/project_0/README.MD#Краткая-информация-о-данных)
-[4. Этапы работы над проектом](https://github.com/ant0nysam/sf_data_science/tree/main/project_0/README.MD#Этапы работы над проектом)
-[5. Результат](https://github.com/ant0nysam/sf_data_science/tree/main/project_0/README.MD#Результат)
-[6. Выводы](https://github.com/ant0nysam/sf_data_science/tree/main/project_0/README.MD#Выводы)
+[1. Описание проекта](https://github.com/ant0nysam/sf_data_science/tree/main/project_0/README.md#Описание-проекта)
+[2. Какой кейс решаем](https://github.com/ant0nysam/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)
+[3. Краткая информация о данных](https://github.com/ant0nysam/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)
+[4. Этапы работы над проектом](https://github.com/ant0nysam/sf_data_science/tree/main/project_0/README.md#Этапы работы над проектом)
+[5. Результат](https://github.com/ant0nysam/sf_data_science/tree/main/project_0/README.md#Результат)
+[6. Выводы](https://github.com/ant0nysam/sf_data_science/tree/main/project_0/README.md#Выводы)
 
 ### Описание проекта
 Угадать "загаданное" компьютером число за минимальное количество попыток.
