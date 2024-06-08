@@ -1,4 +1,4 @@
-# Проект 0. "Угадай число"
+# Проект 0_1. "Угадай число"
 
 ## Оглавление
 [1. Описание проекта](https://github.com/ant0nysam/sf_data_science/tree/main/project_0_1/README.md#Описание-проекта)\
