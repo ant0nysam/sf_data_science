@@ -1,17 +1,17 @@
 # Проект 0. "Угадай число"
 
 ## Оглавление
-[1. Описание проекта](https://github.com/ant0nysam/sf_data_science/blob/main/project_0/README.md#Описание-проекта)\
-[2. Какой кейс решаем](https://github.com/ant0nysam/sf_data_science/blob/main/project_0/README.md#Какой-кейс-решаем)\
-[3. Краткая информация о данных](https://github.com/ant0nysam/sf_data_science/blob/main/project_0/README.md#Краткая-информация-о-данных)\
-[4. Этапы работы над проектом](https://github.com/ant0nysam/sf_data_science/blob/main/project_0/README.md#Этапы-работы-над-проектом)\
-[5. Результат](https://github.com/ant0nysam/sf_data_science/blob/main/project_0/README.md#Результат)\
-[6. Выводы](https://github.com/ant0nysam/sf_data_science/blob/main/project_0/README.md#Выводы)
+[1. Описание проекта](https://github.com/ant0nysam/sf_data_science/tree/main/project_0_1/README.md#Описание-проекта)\
+[2. Какой кейс решаем](https://github.com/ant0nysam/sf_data_science/blob/main/project_0_1/README.md#Какой-кейс-решаем)\
+[3. Краткая информация о данных](https://github.com/ant0nysam/sf_data_science/blob/main/project_0_1/README.md#Краткая-информация-о-данных)\
+[4. Этапы работы над проектом](https://github.com/ant0nysam/sf_data_science/blob/main/project_0_1/README.md#Этапы-работы-над-проектом)\
+[5. Результат](https://github.com/ant0nysam/sf_data_science/blob/main/project_0_1/README.md#Результат)\
+[6. Выводы](https://github.com/ant0nysam/sf_data_science/blob/main/project_0_1/README.md#Выводы)
 
 ### Описание проекта
 Угадать "загаданное" компьютером число за минимальное количество попыток.
 
-:arrow_up:[к оглавлению](https://github.com/ant0nysam/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ant0nysam/sf_data_science/blob/main/project_0_1/README.md#Оглавление)
 
 
 ### Какой кейс решаем?
@@ -31,7 +31,7 @@
 ### Краткая информация о данных
 В этом проекте внешние данные не использовались
 
-:arrow_up:[к оглавлению](https://github.com/ant0nysam/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ant0nysam/sf_data_science/blob/main/project_0_1/README.md#Оглавление)
 
 
 ### Этапы работы над проектом
@@ -42,18 +42,18 @@
 - Создание финальной функции с увеличенным шагом коррекции
 - Оценка качества финального алгоритма
 
-:arrow_up:[к оглавлению](https://github.com/ant0nysam/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ant0nysam/sf_data_science/blob/main/project_0_1/README.md#Оглавление)
 
 
 ### Результат:
 Написано три алгоритма для угадывания числа, проведена оценка их эффективности.
 
-:arrow_up:[к оглавлению](https://github.com/ant0nysam/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ant0nysam/sf_data_science/blob/main/project_0_1/README.md#Оглавление)
 
 
 ### Выводы
 Наилучший результат показывает финальный алгоритм: он угадывает число в среднем за 10-11 попыток.
 
-:arrow_up:[к оглавлению](https://github.com/ant0nysam/sf_data_science/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/ant0nysam/sf_data_science/blob/main/project_0_1/README.md#Оглавление)
 
 Если информация по данному проекту покажется Вам интересной или полезной, то я буду очень Вам благодарен, если отметите репозиторий и профиль :star::star::star:-дами
